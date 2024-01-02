@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.body {
+    margin: 0;
+    background-color: #e4f5ff;
+    padding: 0;
+   
+}
+.nav {
+    vertical-align: middle;
+    border: 0.5px solid rgb(247, 245, 245);
+}
+
+
+
+.nav-item    {
+align-items: center;
+justify-content: space-between;
+display: inline-flex;
+padding: 10px ;
+background-color: none;
+font-size: 20px;
+margin: auto;
+}
+.nav-link{
+text-decoration: none;
+color: blue;
+}
+.disabled{
+    color: gray;
+}

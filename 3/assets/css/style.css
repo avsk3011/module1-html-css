@@ -1,0 +1,11 @@
+/* Write your CSS here */
+body{
+
+    border: 0.5px solid rgb(231, 231, 231);
+    margin: 20px;
+    padding: 30px;
+    align-items: center;
+}
+.form-check{
+    background-color:white
+}

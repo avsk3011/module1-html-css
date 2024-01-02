@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* DIV */
+.mb-3{
+    height: 100px;
+    width: 500px;
+    background-color: aqua;
+    padding-bottom: 0px;
+    padding-left: 40px;
+   
+    
+
+}
+
+.form-label{
+    width: 450px;
+    display: flex;
+    background-color: bisque;
+    padding-left: 40px;
+    padding-top: 10px;
+    
+
+}
+.form-control{
+    background-color: black;
+    width: 450px;
+
+    
+
+}
+#exampleFormControlInput1{
+    background-color: rgb(150, 142, 158);
+    padding-left: 40px;
+
+
+ 
+
+
+}
+#exampleFormControlTextarea1{
+    background-color: rgb(152, 138, 165);
+    padding-left: 40px;
+   
+
+}
+

@@ -1,0 +1,66 @@
+/* Write your CSS here */
+.navbar-expand-lg{
+    display: flex
+}
+.container-fluid{
+
+    background-color: transparent;
+    width: auto;
+    height: auto;
+ 
+    
+}
+.navbar-brand{
+    color: blue;
+    background-color: transparent;
+
+}
+.collapse{
+    background-color: transparent;
+
+}
+.navbar-nav{
+    list-style: none;
+}
+.dropdown-menu{
+    list-style: none;
+    display: flex;
+}
+.d-flex{
+    align-items: center;
+    justify-content: space-between;
+    display: inline-flex;
+    padding: 10px ;
+    background-color: none;
+    font-size: 20px;
+    margin: auto;
+}
+
+.dropdown-menu{
+    position: relative;
+    display: inline-block;
+    background-color: aqua;
+  }
+.dropdown-divider{
+    display: block;
+}
+.nav {
+    vertical-align: middle;
+    border: 0.5px solid rgb(247, 245, 245);
+}
+.nav-item    {
+align-items: center;
+justify-content: space-between;
+display: inline-flex;
+padding: 10px ;
+background-color: none;
+font-size: 20px;
+margin: auto;
+}
+.nav-link{
+text-decoration: none;
+color: blue;
+}
+.disabled{
+    color: gray;
+}

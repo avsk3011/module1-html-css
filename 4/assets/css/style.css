@@ -1,0 +1,91 @@
+/* Write your CSS here */
+body{
+    background-color:whitesmoke;
+    border: 0.5px solid rgb(207, 207, 205);
+    border-radius: 3px;
+}
+.alert-primary{
+    background-color: rgb(179, 193, 231);
+    margin: 15px;
+    height: 45px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    border: 0.5px solid rgb(207, 207, 205);
+}
+.alert-secondary{
+    background-color: rgb(218, 213, 213);
+    margin: 15px;
+    height: 45px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    
+}
+.alert-success {
+    background-color: rgb(177, 202, 181);
+    margin: 15px;
+    height: 45px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    
+
+}
+.alert-danger{
+    background-color: rgb(245, 211, 211);
+    margin: 15px;
+    height: 45px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    
+
+}
+.alert-warning{
+    background-color: rgb(223, 202, 164);
+    margin: 15px;
+    height: 45px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    
+
+}
+.alert-info{
+    background-color: rgb(158, 191, 204);
+    margin: 15px;
+    height: 45px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    
+}
+.alert-light {
+    background-color: rgb(248, 248, 245);
+    margin: 15px;
+    height: 45px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    
+
+}
+.alert-dark{
+    background-color: rgb(160, 159, 159);
+    margin: 15px;
+    height: 45px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    
+
+}
